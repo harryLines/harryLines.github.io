@@ -1,0 +1,3 @@
+#build settings
+makrdown: kramdown
+theme: minima
